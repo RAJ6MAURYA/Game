@@ -1,22 +1,13 @@
-import sys
 # a tic tak toe game
+
 """ #RULES
 1.Any diagonal is matched with O or X
 2.Any vertical or horizontal line with O or X
 """
-# mama (binod) bought cream rolls for saatvik and vaidik but not for anyone else
-# and they were hiding and eating in their room
-# and they thought we'll not get to know but our boimkesh bakshi (shristi)
-# found about it and told us all
-# and she was upset
-# so we decided to tell eveyone else
-# haaaa
-# then vaidik came out with the proof in hand
-# and mami saw -_-
-# then she sent the
+
+import sys
 
 #rules for the winner 
-
 def check(c):
     global ar
     for i in range(len(ar)):
